@@ -2,8 +2,12 @@
 
 BBD (bbd.co.za) Design Patterns 1 course. Duck Simulator exercise implemented in Typescript.
 
-Uses the following design patterns. 
-
+The project implements the following design patterns
+- Adapter Pattern
+- Decorator Pattern
+- Observer Pattern
+- Factory Pattern
+- Composite Pattern
 
 ### Prerequisites
 
